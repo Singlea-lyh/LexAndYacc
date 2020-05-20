@@ -1,0 +1,15 @@
+################
+# 注释
+#######
+
+# 交换机配置
+
+SwitchName = Test
+SwitchID = 10001
+SwitchIP = 19999
+
+# Vlan 
+VlanNum = 7
+
+#Port
+PortNum = 10
